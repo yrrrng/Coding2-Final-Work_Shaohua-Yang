@@ -27,3 +27,9 @@ In order to make an interactive system in which the user can control the movemen
 ![Cow3](https://github.com/yrrrng/Coding2-Final-Work_Shaohua-Yang/raw/main/image/6.jpeg "Cow3")
 
 ### Photography
+
+![Cow4](https://github.com/yrrrng/Coding2-Final-Work_Shaohua-Yang/raw/main/image/1.png "Cow3")
+
+![Cow5](https://github.com/yrrrng/Coding2-Final-Work_Shaohua-Yang/raw/main/image/3.png "Cow3")
+
+![Cow6](https://github.com/yrrrng/Coding2-Final-Work_Shaohua-Yang/raw/main/image/4.png "Cow3")
